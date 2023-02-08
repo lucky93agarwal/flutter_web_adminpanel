@@ -1,16 +1,23 @@
 # flutter_admin
 
-A new Flutter project.
+MSLMart is a complete Multi-vendor Food, Grocery, eCommerce, Parcel, Pharmacy, or any kind of products delivery system developed using Laravel and Flutter Framework. MSLMart’s Powerful admin panel will help you to control your business smartly.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+IMPORTANT NOTE
+- Please register a Customer from the user app and create a Delivery Man credential yourself from the admin panel for a better experience, One more thing, the demo database will reset 3 hours intervals.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MSLMart comprises of 3 Mobile Applications, 2 Web Panel, and 1 website –
+
+1. Customer application for Android, iOS, and web developed using Flutter.
+2. Delivery Boy application for Android developed using Flutter (Need to purchase separately).
+3. Store application for both Android and iOS developed using Flutter (Need to purchase separately).
+4. Super Admin web panel developed using Laravel (admin can provide role-based access).
+5. Store web panel developed using Laravel (owner can provide role-based access).
+
+# Screenshot
+
+
+![shoopingadmin](https://user-images.githubusercontent.com/53622073/217591703-b89d45ed-4641-4aa1-9d66-d92daf364279.png)
+
